@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NicoCala.Prototipos.Ej4", "NicoCala.Prototipos.Ej4\NicoCala.Prototipos.Ej4.csproj", "{C452943C-05B6-4A8B-AD9E-8FEF590FDE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C452943C-05B6-4A8B-AD9E-8FEF590FDE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C452943C-05B6-4A8B-AD9E-8FEF590FDE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C452943C-05B6-4A8B-AD9E-8FEF590FDE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C452943C-05B6-4A8B-AD9E-8FEF590FDE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6B0AABD-6274-40FD-9BCC-3C2B093EDD41}
+	EndGlobalSection
+EndGlobal
