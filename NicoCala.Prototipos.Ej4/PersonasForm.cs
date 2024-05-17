@@ -17,10 +17,12 @@ namespace NicoCala.Prototipos.Ej4
             {
                 var fila = new ListViewItem();
                 //hacer algo con la fila
-                fila.Text = persona.Documento;
+                fila.Text = persona.Documento.ToString();
                 fila.SubItems.Add(persona.Nombre);
                 fila.SubItems.Add(persona.Apellido);
-                fila.SubItems.Add(persona.Telefono);
+                fila.SubItems.Add(persona.Telefono.Descripcion());
+
+
 
                 PersonasList.Items.Add(fila);
             }
